@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": "foodflip",
+      "title": "FoodFlip - Restaurant Recommendation App",
+      "description": "Swipe through nearby restaurants and save favorites into custom collections.",
+      "imageSrc": "assets/images/foodflip.png",
+      "linkHref": "https://cse110-sp25-group25.github.io/cse110-sp25-group25/"
+    },
+    {
+      "id": "podcaist",
+      "title": "Podcaist - AI-Generated Podcast Platform",
+      "description": "Generates fully scripted podcast episodes from a single topic prompt.",
+      "imageSrc": "assets/images/podcaist.svg",
+      "linkHref": "https://podcaist.vercel.app/"
+    },
+    {
+      "id": "qa-testing-system",
+      "title": "QA Testing System - AI-Driven Testing Agent",
+      "description": "An AI agent that explores web apps, writes test plans, and runs them automatically.",
+      "imageSrc": "assets/images/github.png",
+      "linkHref": "https://github.com/evanedreo/qa_testing_system"
+    },
+    {
+      "id": "slide-generator",
+      "title": "Slide Generator - AI-Powered Presentations",
+      "description": "Creates full slide decks with notes from a short lesson outline.",
+      "imageSrc": "assets/images/github.png",
+      "linkHref": "https://github.com/evanedreo/slide-generator"
+    }
+  ]
+}
